@@ -5,6 +5,7 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
 ---
 
 ## 🎥 Demo
+[여기(DEMO.md)](./DEMO.md)
 ![Piper IK Demo](docs/piper_ik.gif)
 
 ---
