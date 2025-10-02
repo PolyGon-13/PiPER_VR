@@ -26,5 +26,19 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
 
 ---
 
+## 🚀 Usage
+
+1. **Orin NX (Ubuntu 22.04, PiPER 로봇 연결)**  
+
+   ```bash
+   pip3 install piper_sdk
+   python3 piper_move.py
+   
+2. ** PC (Window 11, Meta Quets 3S)
+   - VR - PC 연결
+   - Unity 프로젝트 실행
+
+---
+
 ## 📚 Reference
 - [Agilex Robotics Piper SDK](https://github.com/agilexrobotics/piper_sdk)
