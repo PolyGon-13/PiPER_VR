@@ -2,12 +2,14 @@
 
 ## 1. Unity IK 구현
 Unity 환경에서 단순 IK 제어
+
 ![Unity IK Demo](docs/piper_ik.gif)
 
 ---
 
 ## 2. VR → Unity 제어
 Meta Quest 3S로 Unity 내 로봇팔을 직접 제어
+
 ![VR to Unity Demo](docs/piper_vr.gif)
 
 ---
