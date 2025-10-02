@@ -5,7 +5,7 @@ import json
 import math
 from piper_sdk import C_PiperInterface_V2
 
-IP = "192.168.68.51"
+IP = "192.168.68.51" # IP 주소 작성
 PORT = 9101
 
 piper_speed = 5
