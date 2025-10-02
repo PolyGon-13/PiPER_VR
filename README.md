@@ -31,6 +31,7 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
 1. **Orin NX (Ubuntu 22.04, PiPER 로봇 연결)**  
    - C_PiperInterface_V2 클래스 사용을 위해 piper_sdk 설치
    - piper_move 실행
+     
    
    ```bash
    pip3 install piper_sdk
