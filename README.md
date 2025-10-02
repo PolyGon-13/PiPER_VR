@@ -11,12 +11,12 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
 
 ## ⚙️ Environment
 
-| 항목   | 버전/정보       |
-|--------|----------------|
-| PC     | Windows 11     |
-| PiPER  | Orin NX        |
-| VR     | Meta Quest 3S  |
-| Unity  | 2022.3.62f1    |
+| 항목   | 버전/정보            |
+|--------|---------------------|
+| PC     | Windows 11          |
+| PiPER  | Orin NX (Ubuntu 22.04) |
+| VR     | Meta Quest 3S       |
+| Unity  | 2022.3.62f1         |
 
 ---
 
