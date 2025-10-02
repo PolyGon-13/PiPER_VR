@@ -17,5 +17,8 @@ Meta Quest 3S로 Unity 내 로봇팔을 직접 제어
 ## 3. VR → Unity → PiPER
 VR 입력을 Unity에서 받아 실제 PiPER 로봇까지 제어하는 전체 파이프라인
 
-[![YouTube](https://cdn.simpleicons.org/youtube/FF0000)](https://www.youtube.com/watch?v=wAPS53iMgys)
+<a href="https://www.youtube.com/watch?v=wAPS53iMgys">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
+</a>
+
 ---
