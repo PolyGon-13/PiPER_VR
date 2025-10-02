@@ -37,7 +37,7 @@ Meta Quest 3S를 활용해 PiPER 로봇을 Unity 환경에서 제어하는 프�
    pip3 install piper_sdk
    python3 piper_move.py
    
-1. ** PC (Window 11, Meta Quets 3S)
+2. **PC (Window 11, Meta Quets 3S)
    - VR - PC 연결
    - Unity 프로젝트 실행
 
