@@ -20,5 +20,6 @@ VR 입력을 Unity에서 받아 실제 PiPER 로봇까지 제어하는 전체 �
 <a href="https://www.youtube.com/watch?v=wAPS53iMgys">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
 </a>
+&nbsp; [YouTube Demo 보기](https://www.youtube.com/watch?v=wAPS53iMgys)
 
 ---
