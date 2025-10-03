@@ -8,7 +8,7 @@ Unity 환경에서 단순 IK 제어
 ---
 
 ## 2. VR → Unity
-Meta Quest 3S로 Unity 내 로봇팔을 직접 제어
+Meta Quest 3S로 Unity 내 로봇팔 직접 제어
 
 ![VR to Unity Demo](docs/unity_vr.gif)
 
